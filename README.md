@@ -1,11 +1,5 @@
 ### Hi there, I'm Berra
 
-- 🔭 I'm currently working on a 2D game project
-- 🌱 I’m currently learning game development
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Develop two of 2D games and a 3D game and I want to improve myself as much as possible in this field
-- ⚡ Fun fact: I love to play video games and read books
-
 ### Connect with me:
 
 <img align="left" alt="clkbrr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> (www.linkedin.com/in/berra-colak-559b7b182)
