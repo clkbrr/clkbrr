@@ -1,30 +1,27 @@
-### Hi there, I'm Berra
+### Hey there! :wave: 
+
+I'm Berra, I'm a fullstack developer. I work on random projects in my free time.
 
 ### Connect with me:
 
-<img align="left" alt="clkbrr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> (linkedin.com/in/berra-colak-471377307)
+<img align="left" alt="clkbrr" width="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/> (linkedin.com/in/berra-colak-471377307)
 
 <br />
 
-### Languages and Tools:
+### My Skills:
 
-<img align="left" alt="Java" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
-<img align="left" alt="VisualStudio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
-<img align="left" alt="Unity" width="26px" src="https://png2.cleanpng.com/sh/1893c1d86b02863f53623f8099ca0fe4/L0KzQYm3VMI2N5x8j5H0aYP2gLBuTgVvcaVAReZuY3jxf732hBlme151itHwcnHwfbb5TfdidZYyfdDwaX7oPcfwhPVwNZhmRadqZUC7SIKCUsZlPJY9RqoBNkC2SYG5UcUzPGc7TKU9NUG4SYK1kP5o/kisspng-unity-technologies-programmer-game-engine-video-ga-5ae0881926d4e8.8660390215246643451591.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Java" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
+<img align="left" alt="Spring" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" />
+<img align="left" alt="JS" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
+<img align="left" alt="React" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
+<img align="left" alt="HTML5" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+<img align="left" alt="CSS3" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+<img align="left" alt="Bootstrap" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" />
+<img align="left" alt="MySQL" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />
 
 <br />
 <br />
 
 ---
 
-[linkedin]: www.linkedin.com/in/berra-colak-559b7b182
+[linkedin]: www.linkedin.com/in/berra-colak-471377307
