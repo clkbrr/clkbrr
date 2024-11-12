@@ -8,10 +8,10 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Java" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
 <img align="left" alt="VisualStudio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
 <img align="left" alt="Unity" width="26px" src="https://png2.cleanpng.com/sh/1893c1d86b02863f53623f8099ca0fe4/L0KzQYm3VMI2N5x8j5H0aYP2gLBuTgVvcaVAReZuY3jxf732hBlme151itHwcnHwfbb5TfdidZYyfdDwaX7oPcfwhPVwNZhmRadqZUC7SIKCUsZlPJY9RqoBNkC2SYG5UcUzPGc7TKU9NUG4SYK1kP5o/kisspng-unity-technologies-programmer-game-engine-video-ga-5ae0881926d4e8.8660390215246643451591.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Java" width="26px" src="https://png.pngtree.com/png-clipart/20210311/original/pngtree-java-programming-icon-png-image_6044136.jpg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
