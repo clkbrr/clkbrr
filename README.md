@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="clkbrr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> (www.linkedin.com/in/berra-colak-559b7b182)
+<img align="left" alt="clkbrr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> (linkedin.com/in/berra-colak-471377307)
 
 <br />
 
